@@ -15,7 +15,7 @@ const List = () => {
               <span></span>
               <div className={styles.imgBox}>
                 <img src={`/images/${image}.jpg`} />
-                {/* <Image src={`/images/${image}.jpg`} layout='fill' /> */}
+                {/* <Image src={`/images/${image}.jpg`} width={400} height={} /> */}
               </div>
               <div className={styles.content}>
                 <h2>Harmoe</h2>
